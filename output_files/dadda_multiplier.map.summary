@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Oct 29 13:39:06 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : dadda_multiplier
+Top-level Entity Name : dadda_multiplier
+Family : Cyclone IV E
+Total logic elements : 701
+    Total combinational functions : 701
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 64
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
